@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "terminal.integrated.inheritEnv": false,
+    "remote.SSH.showLoginTerminal": true,
+    "remote.SSH.connectTimeout": 60,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.editorAssociations": {
+        "*.pdf": "default"
+    },
+    "arduino.path": "/opt/homebrew/bin/",
+    "arduino.commandPath": "arduino-cli",
+    "arduino.useArduinoCli": true
+}
